@@ -10,7 +10,7 @@ Simple app which is one of the projects at the Complete React Developer Course.
 
 ## Commissioning
 
-[monsters-rolodex](https://ewaklosinska.github.io/mosters-rolodex/)
+[monsters-rolodex](https://ewaklosinska.github.io/monsters-rolodex/)
 
 ## Status
 
